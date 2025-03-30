@@ -1,4 +1,4 @@
-# The First Year's Success: Pricing-Based Agency Owner's Manual
+# The First Year's Agency Owner's Manual
 
 **For solo agency founders validating service businesses without cold outreach.**
 
