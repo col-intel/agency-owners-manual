@@ -82,14 +82,14 @@ Everything is structured around **Product** and **Growth**. Keep **Ops** lightwe
 ## 🎯 Objective
 One sentence describing the core goal of this cycle.
 
-> Example: "Convert 2 paying pilot clients for our upsell concierge service targeting boutique hotels."
+> Example: "Convert 2 paying pilot clients for our GEO optimisation service targeting boutique hotels."
 
 ## 🧪 Hard Truths to Validate
 List 2–3 critical assumptions that, if false, invalidate this cycle.
 
 - HT1: Will clients pay at least €X/month for [service]?
 - HT2: Will clients use the service without constant prompting?
-- HT3: Is upsell revenue a strong enough incentive?
+- HT3: Is GEO optimisation a strong enough incentive?
 
 ## ✅ Success Criteria
 Define what would make this loop a win.
@@ -132,7 +132,7 @@ Write a quick personal note. “What would make this month a win *for you*?”
 ## 🎯 Learning Goal
 What hypothesis are we testing?
 
-> "If we simplify the upsell flow, pilot client A will use it twice this week."
+> "If we bring in more prospects client A will ask us to expand out services?"
 
 ## 📦 Delivery Goal
 What will we ship or do to test it?
@@ -171,7 +171,7 @@ What will we ship or do to test it?
 > Test passive usage triggers next week.
 
 **Next week’s working theme:**  
-> "Can the service nudge clients without my involvement?"
+> "Is GEO traffic stable or spontaneous?"
 
 ---
 
