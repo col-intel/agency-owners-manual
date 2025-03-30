@@ -155,7 +155,7 @@ What will we ship or do to test it?
 - [ ] Update CRM in Notion
 
 ## 📊 Metrics to Watch
-- # of times pilot clients use the service
+- Number of times pilot clients use the service
 - Feedback or blockers surfaced
 - Payment confirmations or objections
 
